@@ -2,8 +2,8 @@
 Aplikasi Penjualan Free, Silahkan di kembangkan
 
 # Install
-`-Extrak File`
-`-Create new database "penjualan" and edit file config database.php`
-`-Export Database`
-`-Run server`
+`-Extrak File` <br />
+`-Create new database "penjualan" and edit file config database.php` <br />
+`-Export Database` <br />
+`-Run server` <br />
 Done
